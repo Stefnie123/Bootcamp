@@ -1,2 +1,2 @@
-# Bootcampv1
+# Bootcamp
 GA coding bootcamp
